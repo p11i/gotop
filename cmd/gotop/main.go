@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/gotop/internal/app"
+	"github.com/p11i/gotop/internal/app"
 )
 
 func main() {
